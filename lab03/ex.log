@@ -1,0 +1,27 @@
+Sun Oct  4 15:07:11 UTC 2026 timestamp
+Count: 1
+Count: 2
+Count: 3
+found the third item
+Count: 4
+Count: 5
+You passed in 15 to ./lab03_exercise2.sh
+max processes exceeded
+Sun Oct  4 15:07:14 UTC 2026 timestamp
+Count: 1
+Count: 2
+Count: 3
+found the third item
+Count: 4
+Count: 5
+You passed in 1500 to ./lab03_exercise2.sh
+max processes NOT exceeded
+Sun Oct  4 15:19:47 UTC 2026 timestamp
+Count: 1
+Count: 2
+Count: 3
+found the third item
+Count: 4
+Count: 5
+You passed in 15 to ./lab03_exercise3.sh
+max processes exceeded
